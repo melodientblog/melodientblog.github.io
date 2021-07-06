@@ -4,3 +4,4 @@
 
 layout: home
 ---
+<link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml">
