@@ -9,7 +9,7 @@ So it turns out that having a second child can seriously hamper one's attempts a
 
 
 
-I managed to drop one of the satellites from my trusty old JBL Creature speakers a couple of weeks ago. The driver was toast since the magnet had detached from the frame and come through the front of the speaker. I don't like throwing things away so I looked around to see if I could get replacement parts.  
+I managed to drop one of the satellites from my trusty old JBL Creature speakers a few weeks ago. The driver was toast since the magnet had detached from the frame and come through the front of the speaker. I don't like throwing things away so I looked around to see if I could get replacement parts.  
 
 {% include image file="creature_set.jpg" description="JBL Creature II speakers" %}
 
